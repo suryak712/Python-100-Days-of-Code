@@ -10,7 +10,7 @@ auth_token = os.environ.get("AUTH_TOKEN")
 
 weather_params = {
     "lat": "YOUR_LAT",
-    "lon": "YOUR_LON",
+    "lon": "YOUR_LONG",
     "appid": api_key,
     "cnt": 4,
 }
